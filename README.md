@@ -449,8 +449,5 @@ See [Roadmap](#roadmap) for planned tasks.
 
 ## License
 
-Choose a license appropriate for your release:
-- MIT (common for Go tools)
-- Apache-2.0 (common for corporate-friendly OSS)
-
-> Add a `LICENSE` file to the repository root.
+This project is licensed under the **MIT License**.  
+See the [LICENSE](./LICENSE) file for details.
